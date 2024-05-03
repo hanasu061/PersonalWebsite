@@ -15,21 +15,28 @@ They are internal links, too.
 
 In the landing page, I create a music play button as interactive component.
 When you click on it, it will play a music.
+
 ![playMusic](./img/playMusic.png)
+
 If you would like to pause, click it again.
+
 ![pause](./img/pause.png)
 
 In the bottom of landing page, there is an ins icon as external link.
 If you click on it, it will open a new browser which is my instagram page.
+
 ![ins link](./img/inslink.png)
 
 # Hobby page
 Hobby page:
+
 ![hobby](./img/hobby.png)
 
 I created a table about my hiking.
+
 ![table](./img/table.png)
 
 # About page
 About page:
+
 ![about](./img/about.png)
